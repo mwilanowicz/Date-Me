@@ -1,0 +1,11 @@
+https://github.com/bumptech/glide
+https://github.com/hdodenhof/CircleImageView
+https://undraw.co/
+https://coolors.co/
+https://github.com/yatindeokar/MyLoadingButton
+
+Phone number:
++48 516 104 327
+
+Verification code:
+123456
